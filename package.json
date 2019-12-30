@@ -1,0 +1,16 @@
+{
+  "name": "manga-scrapper",
+  "version": "1.0.0",
+  "description": "Manga scrapping software.",
+  "main": "index.js",
+  "author": "march0514s",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "^0.0.1-security",
+    "image-downloader": "^3.5.0",
+    "request": "^2.88.0"
+  }
+}
